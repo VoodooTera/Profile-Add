@@ -1,0 +1,33 @@
+Body {
+    background-image: url(https://images.unsplash.com/photo-1504966981333-1ac8809be1ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    text-shadow: 4px 4px Black;    
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Handlee";
+    color: lightBlue;
+    font-size: 60px; 
+    text-align: Center;
+    text-indent: 50px;
+}
+
+ul {
+    color: lightBlue;
+    font-size: 40px;
+    font-family: "Handlee";
+    text-align: Center;
+    text-indent: 40px;
+    background-image: url(dog.png);
+    background-color: black;
+}
+
+li {
+   
+  
+}
